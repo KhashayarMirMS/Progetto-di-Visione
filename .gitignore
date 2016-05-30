@@ -1,0 +1,7 @@
+*.mp4
+*.png
+MatlabFns/*
+frames/*
+inputFrames/*
+inputFrames2/*
+outputFrames/*
